@@ -1,0 +1,16 @@
+[package]
+name = "push-in-place"
+version = "0.1.0"
+edition = "2021"
+authors = ["Roni Hämäläinen"]
+description = "Implement pushing in place for a vector."
+readme = "README.md"
+repository = "https://github.com/RHamalainen/push-in-place"
+license-file = "LICENSE"
+keywords = ["push", "in-place", "vec", "vector"]
+categories = ["development-tools"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
